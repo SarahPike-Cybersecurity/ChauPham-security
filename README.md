@@ -17,7 +17,7 @@ I am passionate about solving complex cybersecurity challenges with hands-on exp
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario 1: Tor Browser Usage](https://github.com/ChauPham-security/Threat-Hunting-Scenario-Tor/tree/main)**
+- **[Threat Hunting Scenario 1: Unauthorized Tor Browser Usage](https://github.com/ChauPham-security/Threat-Hunting-Scenario-Tor/tree/main)**
 - **[Threat Hunting Scenario 2: Devices Accidentally Exposed to the Internet](https://github.com/ChauPham-security/Devices-Accidentally-Exposed-to-the-Internet/tree/main)**
 - **[Threat Hunting Scenario 3: Sudden Network Slowdowns](https://github.com/ChauPham-security/Sudden-Network-Slowdowns/blob/main/README.md)**
 - **[Threat Hunting Scenario 4: Suspected Data Exfiltration from PIPd Employee](https://github.com/ChauPham-security/Suspected-Data-Exfiltration-from-PIPd-Employee/blob/main/README.md)**
